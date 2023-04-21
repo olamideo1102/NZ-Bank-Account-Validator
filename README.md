@@ -96,4 +96,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Security advisory after snyk test
 
-* It has been determined that there are no vulnerabilities in any of the dependencies of this application after running the Synk test, and the application has been placed under Synk monitor for ongoing security. This proactive approach to security will ensure that any potential threats are identified and addressed promptly, and the application remains secure and stable for our users.
+It has been determined that there are no vulnerabilities in any of the dependencies of this application after running the Synk test, and the application has been placed under Synk monitor for ongoing security. This proactive approach to security will ensure that any potential threats are identified and addressed promptly, and the application remains secure and stable for our users.
