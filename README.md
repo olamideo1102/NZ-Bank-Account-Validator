@@ -93,3 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## References
 
 * [IRD - Validating Bank Account Numbers](https://web.archive.org/web/20181009211542/https://www.ird.govt.nz/resources/9/d/9d739cde-ad76-4c49-ae08-522c62d94dd6/rwt-nrwt-spec-2016.pdf)
+
+## Security advisory after snyk test
+
+* It has been determined that there are no vulnerabilities in any of the dependencies of this application after running the Synk test, and the application has been placed under Synk monitor for ongoing security. This proactive approach to security will ensure that any potential threats are identified and addressed promptly, and the application remains secure and stable for our users.
